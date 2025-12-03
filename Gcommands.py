@@ -20,7 +20,7 @@ git remote add origin <url>  # Link local repo to GitHub
 
 git remote -v                # View remote repository URLs
 
-
+git remote set-url origin {url}     # update the remote origin
 
 🔍 Checking Repository Status \& Differences
 
